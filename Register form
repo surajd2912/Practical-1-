@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Register form  </title>
+    <style type="text/css">
+          body {
+            font-size: 17px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            background-color: aquamarine;
+          }
+          * {
+            box-sizing: border-box;
+          }
+          
+          h2 {
+            text-align: center;
+            border-bottom: 2px solid green;
+          }
+    </style>
+</head>
+<body>  
+    <h2>Register form </h2> 
+   <form>
+     <table>
+        <tr>
+            <td>
+               <b>Name :</b> 
+            </td>
+            <td>
+                <input type="text" name="">
+            </td>
+            <tr>
+                <td>
+                    <b>Password :</b> 
+                </td>
+                <td>
+                    <input type="password" name="">
+                </td>
+        
+            </tr>
+            <tr>
+                <td>
+                    <b>Gender :</b> 
+                </td>
+                <td>
+                    <input type="radio" name="Gender">Male
+                    <input type="radio" name="Gender">Female
+                    <input type="radio" name="Gender">Transgender
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Email :</b> 
+                </td>
+                <td>
+                    <input type="mail" name="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Mobile No.</b>
+                </td>
+                <td>
+                    <select>
+                        <option>+91</option>
+<option>+92</option>
+<option>+93</option>
+<option>+94</option>
+<option>+95</option>
+<option>+96</option>
+<option>+97</option>
+<option>+98</option>
+<option>+99</option>
+<option>+100</option>
+<option>+101</option>
+<option>+102</option>
+<option>+103</option>
+<option>+104</option>
+<option>+105</option>
+<option>+106</option>
+<option>+107</option>
+<option>+108</option>
+<option>+109</option>
+<option>+110</option>
+<option>+111</option>
+<option>+112</option>
+<option>+113</option>
+<option>+114</option>
+<option>+115</option>
+<option>+116</option>
+<option>+117</option>
+<option>+118</option>
+<option>+119</option>
+<option>+120</option>
+<option>+121</option>
+<option>+122</option>
+<option>+123</option>
+<option>+124</option>
+<option>+125</option>
+<option>+126</option>
+<option>+127</option>
+<option>+128</option>
+<option>+129</option>
+<option>+130</option>
+<option>+131</option>
+<option>+132</option>
+<option>+133</option>
+<option>+134</option>
+<option>+135</option>
+<option>+136</option>
+<option>+137</option>
+<option>+138</option>
+<option>+139</option>
+<option>+140</option>
+<option>+141</option>
+<option>+142</option>
+<option>+143</option>
+<option>+144</option>
+<option>+145</option>
+<option>+146</option>
+<option>+147</option>
+<option>+148</option>
+<option>+149</option>
+<option>+150</option>
+<option>+151</option>
+<option>+152</option>
+<option>+153</option>
+<option>+154</option>
+<option>+155</option>
+<option>+156</option>
+<option>+157</option>
+<option>+158</option>
+<option>+159</option>
+<option>+160</option>
+<option>+161</option>
+<option>+162</option>
+<option>+163</option>
+<option>+164</option>
+<option>+165</option>
+<option>+166</option>
+<option>+167</option>
+<option>+168</option>
+<option>+169</option>
+<option>+170</option>
+<option>+171</option>
+<option>+172</option>
+<option>+173</option>
+<option>+174</option>
+<option>+175</option>
+<option>+176</option>
+<option>+177</option>
+<option>+178</option>
+<option>+179</option>
+<option>+180</option>
+<option>+181</option>
+<option>+182</option>
+<option>+183</option>
+<option>+184</option>
+<option>+185</option>
+<option>+186</option>
+<option>+187</option>
+<option>+188</option>
+<option>+189</option>
+<option>+190</option>
+<option>+191</option>
+<option>+192</option>
+<option>+193</option>
+<option>+194</option>
+<option>+195</option>
+<option>+196</option>
+<option>+197</option>
+<option>+198</option>
+<option>+199</option>
+<option>+200</option>
+
+                    </select>
+                    <input type="Mobile " placeholder="" name="">
+                </td>
+            </tr>
+            <hr>
+            <div>
+                <input type="submit" name="" value="Register">
+            </div>
+            <hr>
+        </tr>
+        <img src="https://wallpapers-clan.com/wp-content/uploads/2024/05/demon-slayer-giyu-sword-water-desktop-wallpaper-preview.jpg" alt="Demon slayer"  height="100">
+        <a  href="https://www.sarkariresult.com/"> <br>for gov. job </a>
+
+     </table>
+   </form>
+  
+   <pre>
+    <div style="background: white;">
+        <aside>
+Fireworks
+Fireworks are low explosive pyrotechnic devices used for aesthetic and entertainment purposes. They are most commonly used in fireworks 
+displays (also called a fireworks show or pyrotechnics), combining a large number of devices in an outdoor setting. 
+Such displays are the focal point of many cultural and religious celebrations, though mismanagement could lead to fireworks accidents.
+    </div>
+    <div style="background: yellowgreen;">
+Fireworks take many forms to produce four primary effects: noise, light, smoke, and floating materials (confetti most notably).
+They may be designed to burn with colored flames and sparks including red, orange, yellow, green, blue, purple and silver.
+They are generally classified by where they perform, either 'ground' or 'aerial'.
+Aerial fireworks may have their own propulsion (skyrocket) or be shot into the air by a mortar (aerial shell). 
+    </aside>
+    </div>
+   </pre>
+   <section>
+   
+   <span>
+    I am a span tag
+   </span>
+   <span>
+ I am a another span tag
+   </span>
+
+   </section>
+</body>
+</html>
